@@ -13,4 +13,4 @@ in this challenge we had to refactor a code base that was provided to us to simu
 
 
 
- [**GITHUB PAGES LINK**](https://dlonmusk.github.io/refactor-challenge1/Develop/index.html)
+ [**GITHUB PAGES LINK**](https://dlonmusk.github.io/refactor-challenge/Develop/index.html)
